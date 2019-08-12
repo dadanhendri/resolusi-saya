@@ -1,4 +1,5 @@
 WPU RESOLUSI
 - Mengembangkan program ph-ne
-- Mempelajari framework codeigniter
-- Mempelajari framework laravel
+- Mempelajari framework codeigniter dan laravel
+- mempelajari javascript dan jquery
+- mempelajari kembali php dasar dan oop
