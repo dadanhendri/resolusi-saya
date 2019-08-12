@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Mengembangkan program ph-ne
 - Mempelajari framework codeigniter
+- Mempelajari framework laravel
