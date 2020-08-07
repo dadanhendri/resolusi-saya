@@ -3,4 +3,5 @@ WPU RESOLUSI
 - Mempelajari framework codeigniter dan laravel
 - mempelajari javascript dan jquery
 - mempelajari kembali php dasar dan oop
--belajar git
+
+- belajar fluter
